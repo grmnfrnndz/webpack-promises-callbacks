@@ -18,4 +18,4 @@
 ## build dist dev
 ```
     npm run build:dev
-```
+```# webpack-promises-callbacks
